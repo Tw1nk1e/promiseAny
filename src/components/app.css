@@ -1,0 +1,33 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.currency {
+    margin-bottom: 50px;
+}
+
+.url-item {
+    background-color: hotpink;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-flex;
+    margin-bottom: 5px;
+}
+
+.delete-button {
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.url-form {
+    display: inline-flex;
+}
+
+.input {
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
